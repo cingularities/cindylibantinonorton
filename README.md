@@ -96,16 +96,9 @@
         </div>
         <div class="page-body">
           <div class="about">
-            <strong>Lorem Ipsum</strong> is simply dummy text of the printing
-            and typesetting industry. Lorem Ipsum has been the industry's
-            standard dummy text ever since the 1500s, when an unknown printer
-            took a galley of type and scrambled it to make a type specimen book.
-            It has survived not only five centuries, but also the leap into
-            electronic typesetting, remaining essentially unchanged. It was
-            popularised in the 1960s with the release of Letraset sheets
-            containing Lorem Ipsum passages, and more recently with desktop
-            publishing software like Aldus PageMaker including versions of
-            Lorem Ipsum.
+            <strong>Cindy Libantino Norton</strong> is a staff Research Scientist III and drone pilot for The Arizona Remote Sensing Center at the University of Arizona, where she received a B.S. in Wildlife Management and Conservation with a minor in Geographic Information Science in 2016 and M.S. in Natural Resource Studies in 2019. Lastly, she is a doctoral student in Natural Resource Studies with a minor in Remote Sensing and Spatial Analysis starting fall 2023.
+Her research is focused on data modeling and statistical analysis of environmental systems with a specialty in remote sensing and other geospatial data for natural resource studies at different spatial scales within reproducible and automated scripts. 
+
           </div>
           <div class="linkage">
             <a href="https://www.twitch.tv/jzimz" class="link-item twitch">
