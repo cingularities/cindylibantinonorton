@@ -1,5 +1,4 @@
 <!-- =^..^= Created by JZimz. Learn more at jzimz.com -->
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
