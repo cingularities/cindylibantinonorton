@@ -96,7 +96,7 @@
         </div>
         <div class="page-body">
           <div class="about">
-            <strong>Cindy Libantino Norton</strong> is a staff Research Scientist III and drone pilot for The Arizona Remote Sensing Center at the University of Arizona, where she received a B.S. in Wildlife Management and Conservation with a minor in Geographic Information Science in 2016 and M.S. in Natural Resource Studies in 2019. Lastly, she is a doctoral student in Natural Resource Studies with a minor in Remote Sensing and Spatial Analysis starting fall 2023.
+            <strong>Cindy Libantino Norton</strong> is a staff Research Scientist III and drone pilot for The Arizona Remote Sensing Center at the University of Arizona, where she received a B.S. in Wildlife Management and Conservation with a minor in Geographic Information Science in 2016 and M.S. in Natural Resource Studies in 2019. Lastly, she is a doctoral student in Watershed Management and Ecohydrology with a minor in Remote Sensing and Spatial Analysis starting fall 2023.
 Her research is focused on data modeling and statistical analysis of environmental systems with a specialty in remote sensing and other geospatial data for natural resource studies at different spatial scales within reproducible and automated scripts. 
 
           </div>
