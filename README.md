@@ -87,6 +87,8 @@
     </style>
   </head>
   <body>
+    <div id="app">
+      <div id="page-home">
         <div class="profile-photo"></div>
         <div class="profile-text">
           <h1>Cindy Libantino Norton</h1>
